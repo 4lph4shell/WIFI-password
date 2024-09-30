@@ -2,7 +2,7 @@
  Wifi_Password_Master
 
 People ask you for the Wi-Fi password. Answer quickly. **macOS only**.
-[Windows version]https://github.com/4lph4shell/WIFI-password).
+[Windows version](https://github.com/4lph4shell/WIFI-password).
 
 ![](https://i.cloudup.com/uUo8iSbKXRh/km6iJT.gif)
 
